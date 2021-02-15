@@ -8,6 +8,7 @@ A simple implementation of PointConv ([arXiv](https://arxiv.org/abs/1811.07246))
 
 Please cite this repository if you plan to use this implementation of PointConv in your resesarch work.
 
+```
 @misc{PointConv_Pyg,
   author = {Jai Bardhan},
   title = {PointConv},
@@ -17,3 +18,4 @@ Please cite this repository if you plan to use this implementation of PointConv 
   howpublished = {\url{https://github.com/Jai2500/pointconv}},
   commit = {5eada26189b50759694c88dc0468ebd0d8e76118}
 }
+```
